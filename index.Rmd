@@ -179,6 +179,54 @@ class: center, top
 
 ---
 
+# From Data to Decisions...
+
+---
+
+## Understand
+
+## Predict
+
+## Decide
+
+
+---
+
+# Ecological Models: SIR
+
+
+
+---
+
+# Conservation:
+
+> We know what to do.  We just have to do it.
+
+---
+
+# But how?
+
+![](../image-library/img/chess.jpg)
+
+---
+
+# Blindfolded...
+
+![](../image-library/img/chess-blindfold.jpg)
+
+---
+
+# In (at least) three dimensions...
+
+![](../image-library/img/chess-3d.jpg)
+---
+
+# With unexpected extreme events...
+
+![](../image-library/img/chess-extreme-event.jpg)
+
+---
+
 # Towards more general intelligence?
 
 ![:scale 50%](../image-library/rl/alpha-zero.jpg)
@@ -227,8 +275,8 @@ class: center, top
 ---
 
 
-# AI Ethics
+# AI Ethics & Power
 
-
+![](../image-library/img/algo-decisions.jpg)
 
 
