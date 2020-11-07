@@ -122,6 +122,8 @@ class: center, top
 
 ---
 
+# Rebuilding Global Fish Stocks?
+
 ![](../image-library/published/worm2006.jpg)
 
 [Worm+ (2006) doi:10.1126/science.1132294](https://doi.org/10.1126//science.1132294)
@@ -185,76 +187,123 @@ class: center, top
 
 ## Understand
 
+--
+
 ## Predict
+
+--
 
 ## Decide
 
 
 ---
 
-# Ecological Models: SIR
+# Forecasting
 
+- Can we improve our predictions?
 
+--
+
+- Capture Uncertainty
+
+--
+
+- Describe the limits to prediction?
 
 ---
 
-# Conservation:
+# NEON Forecasting Challenge
 
-> We know what to do.  We just have to do it.
+![](../image-library/published/neon.png)
+
+---
+
+# Register now and enter your predictions!
+
+<https://ecoforecast.org/efi-rcn-forecast-challenges/>
+
+---
+
+# Limits to Forecasting
+
+![](../image-library/published/barnosky.png)
+
+---
+
+# Conservation Decisions
+
+--
+
+> _We know what to do.  We just have to do it._
 
 ---
 
 # But how?
 
-![](../image-library/img/chess.jpg)
+---
+
+## Knowing the objective is not the same as knowing the solution
+
+--
+
+## ecosystems are complex to understand and manage
 
 ---
 
-# Blindfolded...
+## Like a game of chess
 
-![](../image-library/img/chess-blindfold.jpg)
-
----
-
-# In (at least) three dimensions...
-
-![](../image-library/img/chess-3d.jpg)
----
-
-# With unexpected extreme events...
-
-![](../image-library/img/chess-extreme-event.jpg)
+![:scale 80%](../image-library/img/chess.jpg)
 
 ---
 
-# Towards more general intelligence?
+## Blindfolded...
 
-![:scale 50%](../image-library/rl/alpha-zero.jpg)
+![:scale 80%](../image-library/img/chess-blindfold.jpg)
+
+---
+
+## In (at least) three dimensions...
+
+![:scale 80%](../image-library/img/chess-3d.jpg)
+---
+
+## With unexpected extreme events...
+
+![:scale 80%](../image-library/img/chess-extreme-event.jpg)
+
+---
+
+![:scale 60%](../image-library/rl/alpha-zero.jpg)
 
 
 ---
 
+### Deep RL methods have been successful in robotics...
 
 ![](../image-library/rl/mujoco-ant.gif) 
 
 ---
 
+### ... and arcade games ...
+
 ![](../image-library/rl/atari-breakout.gif)
 
 ---
 
-# <https://gym.openai.com/envs>
+
+### <https://gym.openai.com/envs>
 
 ---
+class: center, middle
 
-> We're not here to play games... we have a real world to save!
+## _We're not here to play games... we have a real world to save!_
 
-
---- 
-
-![](../image-library/img/rl.png)
-
+---
 <https://boettiger-lab.github.io/conservation-gym>
+
+
+![:scale 80%](../image-library/img/rl.png)
+
 
 ---
 
@@ -269,9 +318,22 @@ class: center, top
 
 ---
 
+## Sustainable fisheries management
 
-![](../image-library/img/espm-157.png)
+![](../image-library/published/worm2006.jpg)
 
+
+
+---
+
+### Example: SAC agent on `gym_fishing-v1`
+
+![](img/sac.png)
+---
+
+### Optimal solution (given the model)
+
+![](../image-library/plots/msy3-1.png)
 ---
 
 
@@ -279,4 +341,34 @@ class: center, top
 
 ![](../image-library/img/algo-decisions.jpg)
 
+---
+
+
+# An open-source model for science?
+
+![](../image-library/img/mcelreath.png)
+
+---
+
+# Learn more
+
+## ESPM-157: Data Science For Global Change Ecology
+
+![:scale 50%](../image-library/img/espm-157.png)
+---
+
+# Spring 2021
+
+## ESPM 288: Reproducible & Collaborative Data Science
+
+## NEON Forecasting Challenge
+
+![:scale 40%](../image-library/published/neon.png)
+
+---
+
+# Thanks!
+
+![](../image-library/people/members.png)
+<https://carlboettiger.info>
 
